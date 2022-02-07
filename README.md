@@ -1,3 +1,7 @@
+# Thanks to:
+[opentdb](https://opentdb.com/) for the questions\
+[freeCodeCamp & Weibenfalk](https://youtu.be/F2JCjVSZlG0) for the tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
